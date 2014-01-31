@@ -19,6 +19,8 @@
  * CopyrightVersion 1.1_beta
  *
  */
+package java.awt.test;
+
 import java.awt.*;
 import java.applet.*;
 
